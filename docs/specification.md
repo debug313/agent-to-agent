@@ -21,9 +21,6 @@
     - [`0.2.6`](https://a2a-protocol.org/v0.2.6/specification)
     - [`0.2.5`](https://a2a-protocol.org/v0.2.5/specification)
     - [`0.2.4`](https://a2a-protocol.org/v0.2.4/specification)
-    - [`0.2.3`](https://a2a-protocol.org/v0.2.3/specification)
-    - [`0.2.2`](https://a2a-protocol.org/v0.2.2/specification)
-    - [`0.2.1`](https://a2a-protocol.org/v0.2.1/specification)
     - [`0.2.0`](https://a2a-protocol.org/v0.2.0/specification)
     - [`0.1.0`](https://a2a-protocol.org/v0.1.0/specification)
 
