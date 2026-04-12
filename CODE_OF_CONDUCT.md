@@ -69,8 +69,8 @@ dispute. If you are unable to resolve the matter for any reason, or if the
 behavior is threatening or harassing, report it. We are dedicated to providing
 an environment where participants feel welcome and safe.
 
-Reports should be directed to [[project-steward-contact]](mailto:[project-steward-contact]), the
-Project Steward(s) for A2A. It is the Project Steward’s duty to
+Reports should be directed to the A2A Project Steward(s) through the project's
+maintainer contact process. It is the Project Steward’s duty to
 receive and address reported violations of the code of conduct. They will then
 work with a committee consisting of representatives from the A2A project and leadership. 
 
